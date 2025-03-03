@@ -1,5 +1,5 @@
 // make sure these match the HTML element names for the ID then class.
-let input = document.querySelector("#NAME");
+let input = document.querySelector("#name");
 let display = document.querySelector(".display");
 
 // This code should be working
