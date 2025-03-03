@@ -42,6 +42,7 @@
   .text {
     animation: rainbow 5s linear infinite;
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-animation: rainbow 5s linear infinite;
     color: transparent;
   }
